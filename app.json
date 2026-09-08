@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SafeTwin",
+    "slug": "safetwin",
+    "version": "1.0.0",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ]
+  }
+}
